@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @musombaangel
-- 👀 I’m interested in AI...
-- 🌱 I’m currently learning Machine learning engineering...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Angel Musomba 👋
 
-<!---
-musombaangel/musombaangel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a data scientist, passionate about the possibilities in machine learning and AI
+
+## 🚀 About Me
+
+- 🌱 I’m currently studying data science and analytics and looking to do projects with a focus in NLP
+- 🤝 I’m open to collaborating on interesting projects and open-source contributions
+- 💬 Ask me about python
+- 📫 How to reach me: musomba.angel@gmail.com
+
